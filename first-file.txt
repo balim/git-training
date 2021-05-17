@@ -1,3 +1,5 @@
 Welcome to the Git / Github Training
 
 //Hello my friend
+
+I love Ramadan
